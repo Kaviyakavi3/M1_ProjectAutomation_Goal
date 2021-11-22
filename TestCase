@@ -1,0 +1,6 @@
+TC_1 : Able to get the input in array
+TC_2 : If password is four digit and we enter only 4 digit not less than or more than that
+TC_3 : An user enter the password like 1234 it will check the password already stored ,If (1234==1234)
+TC_4 : Check the password if it is correct then access granted
+TC_5 : If password is wrong,an SMS will be send to owner's registered mobile number
+TC_6 : Verify that SMS is able to send to an owner's mobile number or not
