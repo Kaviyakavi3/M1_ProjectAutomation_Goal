@@ -1,6 +1,6 @@
 # M1_ProjectAutomation_Security
 
-#Code quality score
+![Code quality score]
 https://api.codiga.io/project/29910/score/svg
 
 ##Code grade
