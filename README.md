@@ -4,4 +4,5 @@
 
 ![Code grade](https://api.codiga.io/project/29910/status/svg)
 
+[![Linux.yml](https://github.com/Kaviyakavi3/M1_ProjectAutomation_Security/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Kaviyakavi3/M1_ProjectAutomation_Security/actions/workflows/c-cpp.yml)
 
